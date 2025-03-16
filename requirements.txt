@@ -8,3 +8,4 @@ requests
 nepse-api
 bs4
 openpyxl
+kagglehub
